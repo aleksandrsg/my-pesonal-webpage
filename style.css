@@ -141,3 +141,13 @@ header.sticky ul li a{
 img {
     max-width: 100%;
 }
+
+/* Skills section */
+
+.services {
+    background: #111;
+}
+
+.heading.white {
+    color: #fff;
+}
